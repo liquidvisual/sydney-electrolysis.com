@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings
+	
+	width="590"
+	height="300"
+	
+	preloaderColor="0xffffff"
+	
+	textBackColor="0x000000"
+	textBackOpacity="50"
+	textSpeed="2"
+	
+	slideshowOn="true"
+	
+	nextButton="slideshow_assets/buttons/next.png"
+	prevButton="slideshow_assets/buttons/prev.png"
+	playButton="slideshow_assets/buttons/play.png"
+	pauseButton="slideshow_assets/buttons/pause.png"
+	
+>
+
+<!--	<image src="slideshow_assets/photos/shop.jpg" transition="2" kenBurns="130;100;MC;MC" time="5" url="http://www.sydneyelectrolysis.com" target="_blank"><![CDATA[<font color="#99ff00">Welcome to Sydney Electrolysis</font><br>Electrolysis is the specialty of permanent hair removal utilizing only solid needle type devices. Electrolysis has over 130 years of history. It is a safe, effective, and medically proven.]]></image>
+	
+	<image src="slideshow_assets/photos/garden.jpg" transition="2" kenBurns="130;100;MC;MC" time="5" url="http://www.sydneyelectrolysis.com" target="_blank"><![CDATA[<font color="#99ff00">Fantastic results!</font><br>Electrolysis works on most facial and body parts. It’s available to men and women with all hair and skin types of any color.]]></image> -->
+	
+	<image src="slideshow_assets/photos/new1.jpg" transition="1" kenBurns="130;100;MC;MC" time="6"><![CDATA[<font color="#99ff00">Electrolysis Works!</font><br>Electrolysis Works on most facial and body parts. It’s available to men and women with all hair and skin types of any color.]]></image>
+	
+	<image src="slideshow_assets/photos/new2.jpg" transition="1" kenBurns="130;100;MC;MC" time="6"><![CDATA[<font color="#99ff00">Clean and Cosy Interior</font><br>You'll feel right at home!]]></image>
+	
+	<image src="slideshow_assets/photos/interior1.jpg" transition="1" kenBurns="130;100;MC;MC" time="6"><![CDATA[<font color="#99ff00">State-of-the-Art Equipment</font><br>The latest technology using ultrarapid 27MHz frequency has made electrolysis much more comfortable than most other epilators.]]></image>
+	
+	<image src="slideshow_assets/photos/new3.jpg" transition="1" kenBurns="130;100;MC;MC" time="6"><![CDATA[<font color="#99ff00">Visit Us Today In the Heart of Sydney</font><br>You'll really love the results!]]></image>
+	
+	<!--><image src="slideshow_assets/photos/interior2.jpg" transition="3" kenBurns="130;100;MC;MC" time="5" url="http://www.sydneyelectrolysis.com" target="_blank"><![CDATA[<font color="#99ff00">Cosy Interior</font><br>Feel warmed and welcome inside our modern, relaxing facility.]]></image>
+	
+	<image src="slideshow_assets/photos/interior3.jpg" transition="1" kenBurns="130;100;MC;MC" time="5" url="http://www.sydneyelectrolysis.com" target="_blank"><![CDATA[<font color="#99ff00">State-of-the-Art Equipment</font><br>The latest technology using ultrarapid 27MHz frequency has made electrolysis much more comfortable than most other epilators.]]></image>
+	
+	<image src="slideshow_assets/photos/exterior1.jpg" transition="2" kenBurns="130;100;MC;MC" time="5" url="http://www.sydneyelectrolysis.com" target="_blank"><![CDATA[<font color="#99ff00">Visit us today</font><br>You'll love the results!]]></image>
+	
+	<image src="slideshow_assets/photos/exterior2.jpg" transition="3" kenBurns="130;100;MC;MC" time="5" url="http://www.sydneyelectrolysis.com" target="_blank"><![CDATA[<font color="#99ff00">Visit us today</font><br>You'll love the results!]]></image> -->
+	
+	<!--
+	<image src="slideshow_assets/photos/golden_clock_pointer-other.jpg" transition="1" kenBurns="100;100;TC;BC" time="5" url="http://www.flashden.net/user/flasher3015" target="_blank"><![CDATA[<font color="#ff3300">Simple Fading Transition</font><br>The transition is a simple fading one, putting all the focus on the content.<br>Every photo stays on the stage a specific amount of time set by you.]]></image>
+	<image src="slideshow_assets/photos/inside_a_dandelion-other.jpg" transition="2" kenBurns="100;120;TL;BR" time="4" url="http://www.flashden.net/user/flasher3015" target="_blank"><![CDATA[<font color="#FFCC00">Every picture can have a hyperlink, which will open a new page set by you.</font>]]></image>
+	<image src="slideshow_assets/photos/water_drop_on_top-other.jpg" transition="2" kenBurns="140;100;MC;MC" time="4" url="http://www.flashden.net/user/flasher3015" target="_blank"><![CDATA[<font color="#00ccff">HTML text for every image</font><br>Each image can have it's own html text set by you in the xml file. You can adjust <font color="#CCFF00">colors</font>, have <u>underlined font</u>, and even <font color="#99FF00"><a href="http://www.flashden.net/" target="_blank">hyperlinks</a></font>]]></image>
+	<image src="slideshow_assets/photos/yellow_flower_water_drop-other.jpg" transition="3" kenBurns="130;100;BR;MC" time="7" url="http://www.flashden.net/user/flasher3015" target="_blank"><![CDATA[<font color="#ff3300">Awesome Ken Burns effect</font><br>The Ken Burns effect is what makes this slideshow really cool. For every picture you can set up a different effect. You can control the panning directions and also the zoom in/out effect.]]></image>
+	-->
+	
+</settings>

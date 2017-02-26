@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<template>
+
+	<settings
+	
+		mainTitle="SYDNEY ELECTROLYSIS"
+	
+		menuButton="0x45898d"
+		menuText="0xFFFFFF"
+		menuButtonRoll="0x000000"
+		menuTextRoll="0x45898d"
+		
+		title="SYDNEY ELECTROLYSIS"
+		subtitle="a creative template for creative people"
+		
+		titleColor="0x4c8d91"
+		titleText="0xFFFFFF"
+		subtitleText="FFFFFF"
+		
+		useOnlyOneBackground="false"
+		back="backgrounds/back_home.jpg"
+		backPattern="backgrounds/pattern.png"
+		backPatternOpacity="15"
+		backBrightness="85"
+		
+		preloaderColor="0xFFFFFF"
+		preloaderText="0x11e99c"
+		
+		containerColor="0x000000"
+		containerOpacity="75"
+		containerPreloader="0xFFFFFF"
+		
+		footerIconsColor="0x11e99c"
+	
+	/>
+	
+	<pages>
+		
+		<!-- // following is taken out 08.03.10 since banner now directs back home
+		
+		<page title1="SYDNEY ELECTROLYSIS" title2="SYDNEY  ELECTROLYSIS" pageTitle="Gallery"  type="single" back="backgrounds/back_home.jpg" height="300" src="slideshow.swf" xmlPath="slideshow_settings.xml" />-->
+	
+		<page title1="ELECTROLYSIS" title2="TRUE  PERMANENT  HAIR  REMOVAL" pageTitle="Folio"  type="multiple">
+			<subpage title="WHAT  IS  ELECTROLYSIS?" back="backgrounds/back_face.jpg"  pageTitle="Bio"  height="400" src="html.swf" xmlPath="bio3.xml" />
+			<subpage title="HISTORY  OF  ELECTROLYSIS" back="backgrounds/back_man_chin.jpg"  pageTitle="Bio"  height="400" src="html.swf" xmlPath="bio4.xml" />
+			<subpage title="ELECTROLYSIS  TODAY" back="backgrounds/back_machine.jpg"  pageTitle="Bio"  height="400" src="html.swf" xmlPath="bio5.xml" />
+		</page>
+		
+		<!-- --------------------------------------------------------------- -->
+			
+		<page title1="MY  PROFILE" title2="TOMOKA  EASTWOOD,  CPE" pageTitle="Bio" type="single" back="backgrounds/back_leg.jpg" height="400" src="html.swf" xmlPath="bio.xml" />
+	
+		<page title1="CONSULTATION" title2="COMPLIMENTARY" pageTitle="Bio" type="single" back="backgrounds/back_lip.jpg" height="400" src="html.swf" xmlPath="bio2.xml" />
+		
+		<page title1="IMAGES" title2="BEFORE  &  AFTER" pageTitle="Folio"  type="single" back="backgrounds/back_torso.jpg" pageTitle="Photo"  height="338" src="folio.swf" xmlPath="folio_photo_settings.xml"/> 
+		
+		<page title1="FAQ" title2="Frequently  Asked  Questions" pageTitle="News"  type="single" back="backgrounds/back_body.jpg" height="300" src="news.swf" xmlPath="news_settings.xml" />
+		
+		<page title1="WHAT'S NEW" title2="ALL THE LATEST" pageTitle="What's New"  type="link" back="backgrounds/back_body.jpg" height="260" type="link"src="http://sydneyelectrolysis.weebly.com/" />
+		
+		<page title1="CONTACT" title2="CONTACT  ME" pageTitle="Contact"  type="single" back="backgrounds/contact-bg.jpg" height="260" src="contact.swf" />
+		
+	</pages>
+
+</template>

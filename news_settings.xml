@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+
+	<display
+	
+		totalWidth="590"
+		totalHeight="300"
+	
+		tabTitle1="0xFFFFFF"
+		tabTitle2="0xF0F0F0"
+		
+		tabRollTitle1="0xFF0033"
+		tabRollTitle2="0xFF0033"
+		
+		htmlBackground="0x000000"
+		
+		scrollbarColor1="0x333333"
+		scrollbarColor2="0xDFDFDF"
+	
+	 />
+	
+	<news>
+	<!-- <img src="news_assets/1.png" width="130" height="90" vspace="0"> -->
+	
+		<item title1="Is it safe?" title2=""><![CDATA[Yes. Electrolysis has over 130 years of history in safety and effectiveness without any side effects.   At Sydney Electrolysis, all probes are pre-sterilized, disposable, and tweezers are sterilized each time to prevent cross contamination.]]></item>
+		
+		<item title1="Does it hurt?" title2=""><![CDATA[During the treatment, you will notice a definite sensation from “slight heat”, “tingling” to “stinging” as each follicle is surrounding by nerve endings. The sensation depends on the individual, and some parts of the body are more sensitive than others. However, the latest technology using ultrarapid 27MHz frequency has made electrolysis much more comfortable than most other epilators, and many clients are taking advantage of the Apilus Platinum worldwide. Accurate insertion of the probe with the correct machine settings also minimizes clients discomfort, and a professional electrologist will help you to have your treatment with minimum discomfort.]]></item>
+		
+		<item title1="Are there any side effects?" title2=""><![CDATA[Immediately after the treatment, you may experience slight redness and /or mild swelling, which varies with each individual. In most cases these will disappear in half an hour to several hours. In some instances, electrolysis causes tiny scabs to form over the treated follicle. It’s a part of the healing process, and will not cause any permanent damage on your skin. . At SYDNEY ELECTROLYSIS, we provide post epilatory care using cataphoresis that helps reduce redness, soothe the skin, and gives an antibacterial effect. Your electrologist will advise you post treatment instructions for you to follow to facilitate the healing process.]]></item>
+	
+		<item title1="Is it really permanent?" title2=""><![CDATA[Yes. Professionally performed electrolysis eliminates unwanted hair permanently. Electrolysis has over 130 years of history in safe and effective permanent hair removal, and the only true permanent hair removal method approved by the FDA. No other hair removal method can claim such universal acceptability and success.]]></item>
+		
+		<item title1="Which area can I have treatments?" title2=""><![CDATA[Electrolysis works on most facial and body parts. It’s available to men and women with all hair and skin types of any color.]]></item>
+	
+		<item title1="Why should I choose electrolysis and not other hair removal methods?" title2=""><![CDATA[Though laser attracts people for its convenience, it is considered a temporary method, and it has not been evaluated for long-term safety of the clients’ skin and health. Other temporary methods such as waxing and tweezing may cause ingrown hairs, irritation and discoloration to the skin, and require a lifetime of maintenance. Electrolysis eliminates unwanted hair permanently.]]></item>
+	
+		<item title1="Is single needle better than multiple needle?" title2=""><![CDATA[Galvanic(multiple needle), Thermolysis(single needle), and Blend(single needle); All three modalities are safe and effective, and equally destroy hair growth cells that causes hair growth. The modality used is the preference of the electrologist. <br><br>With continually advancing technology, equipment and treatment protocols, electrologists today have access to choose various types of methods according to each different hair cycle to maximize the result. Tomoka Eastwood, CPE is aware of changes in the profession, and internationally educated in all modalities including most advanced methods in electrolysis.]]></item>
+		
+		<item title1="Would you like to know more?" title2=""><![CDATA[If you would like to know more about electrolysis, please call Tomoka or refer resourceful American Electrology Association website; <a href="http://www.electrology.com" target="_blank">www.electrology.com</a>]]></item>
+		
+	</news>
+
+</settings>
