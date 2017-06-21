@@ -1,10 +1,9 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html>
     <head>
+        <meta charset="UTF-8">
         <title>Sydney Electrolysis</title>
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-        <script type="text/javascript" src="swfobject/swfobject.js"></script>
-        <script type="text/javascript" src="swfaddress/swfaddress.js"></script>
         <style type="text/css">
             html, body {
                 height: 100%;
@@ -19,26 +18,51 @@
             #content {
                 height: 100%;
             }
+            .warning {
+                padding: 50px;
+                width: 400px;
+                margin: auto;
+                text-align: center;
+            }
         </style>
-		<script type="text/javascript">
-			if ((navigator.userAgent.indexOf('iPhone') != -1) || (navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
-				document.location = "http://sydneyelectrolysis.weebly.com";
-			} // ]]>
-		</script>
+        <script src='http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js'></script>
+        <script src="/js/swfaddress/swfaddress.js"></script>
+        <script src="/js/jquery-1.6.1.min.js"></script>
+        <script type="text/javascript">
+            swfobject.registerObject("flash", "8", "js/swfobject/expressinstall.swf");
+
+            if ($(window).width() < 540) {
+                document.location = "http://sydneyelectrolysis.weebly.com";
+            }
+        </script>
     </head>
     <body>
-        <div id="content">
-            <p>In order to view this page you need JavaScript and Flash Player 8+ support!</p>
+        <object id="flash" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="100%" height="100%">
+            <param name="movie" value="main.swf" />
+            <param name="wmode" value="transparent" />
+            <param name="allowScriptAccess" value="sameDomain" />
+
+        <!--[if !IE]>-->
+        <object type="application/x-shockwave-flash" data="main.swf" width="100%" height="100%">
+            <param name="movie" value="main.swf" />
+            <param name="FlashVars" value="issue=05&pages=17">
+            <param name="wmode" value="transparent" />
+            <param name="allowScriptAccess" value="sameDomain" />
+
+        <!--<![endif]-->
+        <div class="warning">
+            <h2>This site uses Flash</h2>
+            <p>Enable it in your browser or visit <a href="http://sydneyelectrolysis.weebly.com">here</a></p>
+            <a href="http://www.adobe.com/go/getflash">
+                <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
+            </a>
         </div>
-        <script type="text/javascript">
-        // <![CDATA[
-			var attributes = {id:"website"};
-            var so = new SWFObject('main.swf', 'main', '100%', '100%', '8', '#000000', null, null, attributes);
-            so.useExpressInstall('swfobject/expressinstall.swf');
-            so.addParam('menu', 'false');
-            so.addParam('allowFullscreen', 'true');
-            so.write('content');
-        // ]]>
-        </script>
+
+        <!--[if !IE]>-->
+        </object>
+
+        <!--<![endif]-->
+        </object>
+
     </body>
 </html>
