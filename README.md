@@ -3,4 +3,4 @@ Sydney Electrolysis
 
 This is a 2010 Flash website preserved for archive purposes.
 
-[http://sydney-electrolysis.yourwebvisual.com](Live Site Here)
+[http://sydneyelectrolysis.yourwebvisual.com](Live Site Here)
